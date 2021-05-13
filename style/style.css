@@ -20,11 +20,9 @@ body {
 
 .content{
     padding: 0px 25px 0px 25px;
-	border-radius: 5px;
-	/* background: rgb(51,22,73);
-    background: linear-gradient(0deg, rgba(51,22,73,1) 0%, rgba(121,18,205,1) 100%); */
+    border-radius: 5px;
     background-color: white;
-	max-height: 20%;
+    max-height: 20%;
     display:  block;
 }
 
